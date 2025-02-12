@@ -1,0 +1,7 @@
+python 3.11
+
+pip install numpy matplotlib scikit-fuzzy
+
+pip install scipy
+
+pip install scikit-learn
